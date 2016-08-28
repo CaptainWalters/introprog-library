@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=enrolled\ totBooks
+comment0.target=College(int,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ College.\r\n\ \r\n\ @param\ enrolled\ \ input\ for\ total\ number\ of\ students\ enrolled.\r\n\ @param\ totBooks\ \ input\ for\ number\ of\ available\ books.\r\n
+comment1.params=
+comment1.target=void\ describe()
+comment1.text=\r\n\ Displays\ a\ discription\ of\ the\ class\ in\ its\ current\ state\r\n
+comment2.params=
+comment2.target=void\ nextStep()
+comment2.text=\r\n\ Displays\ text\ in\ the\ event\ of\ a\ student\ graduating,\ if\ there\ are\ no\ students\ remaining\ or\r\n\ progresses\ the\ program\ further.\r\n
+comment3.params=nSteps
+comment3.target=void\ runCollege(int)
+comment3.text=\r\n\ The\ base\ method\ for\ the\ programs\ functionality\r\n\ \r\n\ @param\ nSteps\ \ \ \ inputs\ the\ timeframe\ for\ the\ College\ to\ run.\r\n
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+comment4.text=\r\n\ The\ main\ method\ for\ the\ whole\ program.\ Allows\ the\ program\ to\ run\ outside\ of\ BlueJ.\r\n\ \r\n\ @param\ String[]\ args\ \ \ \ \ The\ parameters\ that\ govern\ the\ entire\ programs\ functionality.\r\n
+numComments=5
